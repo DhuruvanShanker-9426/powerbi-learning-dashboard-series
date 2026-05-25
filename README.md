@@ -24,8 +24,8 @@ Each `.pbix` file represents a small learning module focused on a specific featu
 - Data Visualization  
 - DAX (Measures & Calculated Columns)  
 - Data Modeling  
-- Hierarchical Analysis  
-- Dashboard Design  
+- Hierarchical Analysis
+- Dashboard Design.  
 
 ---
 
