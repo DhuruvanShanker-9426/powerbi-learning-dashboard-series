@@ -16,7 +16,7 @@ Each `.pbix` file represents a small learning module focused on a specific featu
 - year_and_date_func_practice.pbix → Date functions  
 - power BI_activity_1.pbix → Practice activity  
 - PowerBI_Hierarchy_Activity_1.pbix → Hierarchy-based report  
-- power_BI_Practice_1.pbix → General practice  
+- power_BI_Practice_1.pbix → General practice .
 
 ---
 
