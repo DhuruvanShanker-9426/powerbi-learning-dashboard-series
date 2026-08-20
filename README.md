@@ -1,7 +1,7 @@
 # 📊 Power BI Learning Dashboard Series
 
 ## 🧠 Overview
-This repository contains my Power BI practice projects where I explored different concepts like dashboards, measures, hierarchies, and date functions.
+This repository contains my Power BI practice projects where I explored different concepts like dashboards, measures, hierarchies, and date functions
 
 Each `.pbix` file represents a small learning module focused on a specific feature of Power BI.
 
